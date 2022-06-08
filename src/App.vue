@@ -14,8 +14,8 @@
 </template> -->
 
 <script>
-import { auth, db, storage } from './firebase'
-console.log(auth, db, storage)
+
+
 
 export default {
   name: 'App',
